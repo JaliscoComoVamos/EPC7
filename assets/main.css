@@ -2788,9 +2788,9 @@ a.text-dark:hover, a.text-dark:focus { color: #121416 !important; }
 
 .navbar { font-family: "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
 
-.bg-dark { background-color: #F3969A !important; }
+.bg-dark { background-color: #282828 !important; }
 
-.border-dark { border-color: #F3969A !important; }
+.border-dark { border-color: #282828 !important; }
 
 .btn { font-family: "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
 .btn, .btn:hover { color: #fff; }
